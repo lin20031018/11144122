@@ -23,17 +23,19 @@ nav {
     text-align: center;
     word-spacing: 20px;
     border-style: hidden;
+    
 }
 
 nav a {
     padding: 20px;
     display: inline-block;
-
+    
 }
 
 nav a:hover {
     background-color: #FAE1DD;
     color: white;
+    text-decoration: none;
 }
 
 footer {
@@ -114,4 +116,18 @@ img {
 .blank {
     padding: 10px;
     margin: 15px 0px;
+}
+
+.card2{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    background-image: url(image/Beige\ Pastel\ Terrazzo\ Abstract\ Desktop\ Wallpaper\ \(1\).png);
+    background-size: cover;
+}
+
+.card2{
+    padding-left: 10px;
+    margin: 15px;
 }
